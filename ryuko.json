@@ -3,16 +3,16 @@
     "developermode": false,
     "language": "en",
     "notification": true,
-    "approval": true,
+    "approval": false,
     "premium": false,
-    "BOTNAME": "",
-    "BOTOWNER": "",
-    "PREFIX": "!",
+    "BOTNAME": "trash💫",
+    "BOTOWNER": "thataone",
+    "PREFIX": "-",
     "OPERATOR": [
-        ""
+        "100079267516878"
     ],
     "ADMINBOT": [
-        ""
+        "100079267516878"
     ],
     "disabledcmds": [],
     "disabledevents": [],
