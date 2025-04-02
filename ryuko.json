@@ -7,12 +7,12 @@
     "premium": false,
     "BOTNAME": "trash💫",
     "BOTOWNER": "thataone",
-    "PREFIX": "-",
+    "PREFIX": ".",
     "OPERATOR": [
-        "100079267516878"
+        "100015903097543"
     ],
     "ADMINBOT": [
-        "100079267516878"
+        "100015903097543"
     ],
     "disabledcmds": [],
     "disabledevents": [],
